@@ -1,0 +1,1 @@
+window.roistatReusePhone("+7 (499) 111-37-06", 150, null, "[{\"phone\":\"+7 (499) 111-37-06\",\"css_selectors\":[],\"replaceable_numbers\":[\"74993933100\"],\"raw_phone\":\"74991113706\"}]", "74991113706");
